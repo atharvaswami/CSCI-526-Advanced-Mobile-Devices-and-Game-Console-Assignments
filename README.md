@@ -4,7 +4,7 @@
 Hosted Game URL: https://atharvaswami.github.io/Essentials-of-real-time-3D/WebGL%20Builds/index.html <br>
 GitHub Repo: https://github.com/atharvaswami/Essentials-of-real-time-3D <br>
 
-### Essentials of real-time 3D: <br>
+### Essentials of real-time 2D: <br>
 Hosted Game URL: https://atharvaswami.github.io/Essentials-of-real-time-2D/WebGL%20Builds/index.html <br>
 GitHub Repo: https://github.com/atharvaswami/Essentials-of-real-time-2D <br>
 
