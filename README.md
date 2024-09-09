@@ -18,4 +18,4 @@ GitHub Repo: https://github.com/atharvaswami/prototype-1 <br>
 
 ### Plane Prototype: <br>
 Hosted Game URL: https://atharvaswami.github.io/prototype-1/WebGL%20Builds/Plane%20Prototype/index.html <br>
-GitHub Repo: https://github.com/atharvaswami/prototype-1 <br>
+GitHub Repo: https://github.com/atharvaswami/prototype-1/tree/main/Assets/Challenge%201 <br>
